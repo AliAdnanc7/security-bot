@@ -1,7 +1,7 @@
 var TelegramBot = require('node-telegram-bot-api');
 
 
-var token = '1669837473:AAEbAvrS0K2DE-StnABTyqbX1ho2TMShVGc';
+var token = 'token';
 //  git add .
 //  git commit -am "make it better"
 //  git push heroku master
